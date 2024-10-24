@@ -177,7 +177,7 @@ return 0;
 using namespace std;
 int main()
 {
-    char s[]= "Parth";
+    char s[]= "Sivapriya";
     cout<<s<<endl;
     return 0;
 }
@@ -188,8 +188,8 @@ int main()
 using namespace std;
 int main() 
 {
-    string name("Parth");
-    string surname("Borikar");
+    string name("Sivapriya");
+    string surname("Nambiar");
     name.append(surname);
     cout<<name<<endl;
 }
@@ -202,7 +202,7 @@ int main()
 using namespace std;
 int main()
 {
-string a= "Parth";
+string a= "Sivapriya";
 reverse(a.begin(), a.end());
 cout<<"reverse string is:"<<a<<endl;
 return 0;
